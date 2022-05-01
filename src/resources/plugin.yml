@@ -1,0 +1,12 @@
+name: Vulcan
+main: dev.astro.net.Vulcan
+version: 0.1
+author: Astro Operations
+depend: [WorldEdit]
+commands:
+  abilities:
+    description: base command
+    aliases: [ab,ability]
+  vulcan:
+    description: 
+    aliases: []
